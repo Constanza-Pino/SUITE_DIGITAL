@@ -61,7 +61,7 @@
 
   <h2>Calidad Transaccional</h2>
   <div class="links">
-    <a href="https://app.powerbi.com/reportEmbed?reportId=fd5c3307-5ce1-48a6-a18d-3b55e8fcffa1&autoAuth=true&ctid=b4116da4-0e7d-4a27-ad29-2bcdbf364c34" target="_blank">Propuesta Pauta de Calidad Maf</a>
+    <a href="Piloto-de-Contacto-Seguro-de-Cesantia-Tarjeta-Cencosud.pptx" target="_blank">Propuesta Pauta de Calidad Maf</a>
   </div>
 </body>
 </html>
